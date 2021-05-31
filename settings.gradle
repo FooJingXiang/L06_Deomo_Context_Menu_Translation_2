@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Deomo Context Menu Translation 2"
